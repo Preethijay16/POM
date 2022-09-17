@@ -6,7 +6,13 @@ Author Prathipa
 
 2.Home Page class
 
+3.Profile Page class
 
+4.DashBoard Page class
+
+5.Directory Page Class
+
+6.Status Branch
 
 
 
